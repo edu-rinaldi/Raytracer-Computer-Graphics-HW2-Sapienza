@@ -121,7 +121,9 @@ Sia chiaro, il codice scritto da me è solo nelle funzioni:
 
 Alcuni render presenti in `out`
 
-![cornelbox](https://github.com/edu-rinaldi/Raytracer-Computer-Graphics-HW2-Sapienza/blob/master/out/lowres/01_cornellbox_512_256.jpg)
-![texture](https://github.com/edu-rinaldi/Raytracer-Computer-Graphics-HW2-Sapienza/blob/master/out/lowres/03_texture_720_256.jpg)
-![hair](https://github.com/edu-rinaldi/Raytracer-Computer-Graphics-HW2-Sapienza/blob/master/out/lowres/10_hair_720_256.jpg)
-![bathroom](https://github.com/edu-rinaldi/Raytracer-Computer-Graphics-HW2-Sapienza/blob/master/out/lowres/11_bathroom1_720_256.jpg)
+![cornelbox](https://github.com/edu-rinaldi/Raytracer-Computer-Graphics-HW2-Sapienza/blob/master/out/highres/01_cornellbox_512_4096.jpg)
+![texture](https://github.com/edu-rinaldi/Raytracer-Computer-Graphics-HW2-Sapienza/blob/master/out/highres/05_arealight_1280_1024.jpg)
+![glass](https://github.com/edu-rinaldi/Raytracer-Computer-Graphics-HW2-Sapienza/blob/master/out/highres/08_glass_1280_1024.jpg)
+![hair](https://github.com/edu-rinaldi/Raytracer-Computer-Graphics-HW2-Sapienza/blob/master/out/highres/10_hair_1280_1024.jpg)
+![bathroom](https://github.com/edu-rinaldi/Raytracer-Computer-Graphics-HW2-Sapienza/blob/master/out/highres/11_bathroom1_1280_4096.jpg)
+![ecosys](https://github.com/edu-rinaldi/Raytracer-Computer-Graphics-HW2-Sapienza/blob/master/out/highres/12_ecosys_1280_1024.jpg)
