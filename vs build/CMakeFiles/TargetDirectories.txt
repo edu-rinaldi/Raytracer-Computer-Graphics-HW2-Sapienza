@@ -1,0 +1,9 @@
+C:/Users/Eduardo/Desktop/out/vs build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Eduardo/Desktop/out/vs build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Eduardo/Desktop/out/vs build/libs/yocto/CMakeFiles/yocto.dir
+C:/Users/Eduardo/Desktop/out/vs build/libs/yocto_raytrace/CMakeFiles/yocto_trace.dir
+C:/Users/Eduardo/Desktop/out/vs build/libs/yocto_gui/CMakeFiles/yocto_gui.dir
+C:/Users/Eduardo/Desktop/out/vs build/libs/yocto_gui/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/Eduardo/Desktop/out/vs build/libs/yocto_gui/glfw/src/CMakeFiles/glfw.dir
+C:/Users/Eduardo/Desktop/out/vs build/apps/yscenetrace/CMakeFiles/yscenetrace.dir
+C:/Users/Eduardo/Desktop/out/vs build/apps/ysceneitraces/CMakeFiles/ysceneitraces.dir

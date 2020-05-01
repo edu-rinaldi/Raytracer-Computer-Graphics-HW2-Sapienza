@@ -1,0 +1,10 @@
+﻿  Building Custom Rule C:/Users/Eduardo/Desktop/out/libs/yocto/CMakeLists.txt
+  yocto_shape.cpp
+  yocto_image.cpp
+  yocto_trace.cpp
+  yocto_sceneio.cpp
+  stb_image.cpp
+  cgltf.cpp
+  tinyexr.cpp
+  Generazione del codice in corso...
+  yocto.vcxproj -> C:\Users\Eduardo\Desktop\out\bin\Release\yocto.lib

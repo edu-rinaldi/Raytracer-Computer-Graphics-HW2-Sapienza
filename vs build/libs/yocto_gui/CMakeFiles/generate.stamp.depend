@@ -1,0 +1,5 @@
+# CMake generation dependency list for this directory.
+C:/CMake/share/cmake-3.16/Modules/FindOpenGL.cmake
+C:/CMake/share/cmake-3.16/Modules/FindPackageHandleStandardArgs.cmake
+C:/CMake/share/cmake-3.16/Modules/FindPackageMessage.cmake
+C:/Users/Eduardo/Desktop/out/libs/yocto_gui/CMakeLists.txt

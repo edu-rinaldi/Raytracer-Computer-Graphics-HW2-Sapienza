@@ -1,0 +1,16 @@
+# CMake generation dependency list for this directory.
+C:/CMake/share/cmake-3.16/Modules/BasicConfigVersion-SameMajorVersion.cmake.in
+C:/CMake/share/cmake-3.16/Modules/CMakePackageConfigHelpers.cmake
+C:/CMake/share/cmake-3.16/Modules/CheckCSourceCompiles.cmake
+C:/CMake/share/cmake-3.16/Modules/CheckIncludeFile.c.in
+C:/CMake/share/cmake-3.16/Modules/CheckIncludeFile.cmake
+C:/CMake/share/cmake-3.16/Modules/CheckLibraryExists.cmake
+C:/CMake/share/cmake-3.16/Modules/FindPackageHandleStandardArgs.cmake
+C:/CMake/share/cmake-3.16/Modules/FindPackageMessage.cmake
+C:/CMake/share/cmake-3.16/Modules/FindThreads.cmake
+C:/CMake/share/cmake-3.16/Modules/GNUInstallDirs.cmake
+C:/CMake/share/cmake-3.16/Modules/WriteBasicConfigVersionFile.cmake
+C:/Users/Eduardo/Desktop/out/libs/yocto_gui/ext/glfw/CMakeLists.txt
+C:/Users/Eduardo/Desktop/out/libs/yocto_gui/ext/glfw/src/glfw3.pc.in
+C:/Users/Eduardo/Desktop/out/libs/yocto_gui/ext/glfw/src/glfw3Config.cmake.in
+C:/Users/Eduardo/Desktop/out/libs/yocto_gui/ext/glfw/src/glfw_config.h.in

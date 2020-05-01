@@ -1,0 +1,10 @@
+^C:\USERS\EDUARDO\DESKTOP\OUT\VS BUILD\CMAKEFILES\3CB776E6417EB7A1813B1573FF44CA4D\GENERATE.STAMP.RULE
+setlocal
+C:\CMake\bin\cmake.exe -SC:/Users/Eduardo/Desktop/out "-BC:/Users/Eduardo/Desktop/out/vs build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Eduardo/Desktop/out/vs build/yocto_raytrace.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

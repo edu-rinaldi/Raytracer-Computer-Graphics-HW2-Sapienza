@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Eduardo\Desktop\out\libs\yocto\yocto_shape.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Eduardo\Desktop\out\libs\yocto\yocto_image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Eduardo\Desktop\out\libs\yocto\yocto_trace.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Eduardo\Desktop\out\libs\yocto\yocto_sceneio.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Eduardo\Desktop\out\libs\yocto\ext\stb_image.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Eduardo\Desktop\out\libs\yocto\ext\cgltf.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Eduardo\Desktop\out\libs\yocto\ext\tinyexr.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Eduardo\Desktop\out\libs\yocto\yocto_math.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eduardo\Desktop\out\libs\yocto\yocto_commonio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eduardo\Desktop\out\libs\yocto\yocto_common.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eduardo\Desktop\out\libs\yocto\yocto_ply.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eduardo\Desktop\out\libs\yocto\yocto_obj.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eduardo\Desktop\out\libs\yocto\yocto_pbrt.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eduardo\Desktop\out\libs\yocto\yocto_shape.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eduardo\Desktop\out\libs\yocto\yocto_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eduardo\Desktop\out\libs\yocto\yocto_trace.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eduardo\Desktop\out\libs\yocto\yocto_sceneio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eduardo\Desktop\out\libs\yocto\ext\stb_image.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eduardo\Desktop\out\libs\yocto\ext\stb_image_resize.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eduardo\Desktop\out\libs\yocto\ext\stb_image_write.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eduardo\Desktop\out\libs\yocto\ext\cgltf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eduardo\Desktop\out\libs\yocto\ext\cgltf_write.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eduardo\Desktop\out\libs\yocto\ext\filesystem.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eduardo\Desktop\out\libs\yocto\ext\json.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Eduardo\Desktop\out\libs\yocto\ext\tinyexr.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Eduardo\Desktop\out\libs\yocto\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{2E4DD7E6-3DD6-3E47-8ECE-C132D2418EF3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{2BC32F93-09E7-3AF5-A7C2-095AB16E0BF8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
