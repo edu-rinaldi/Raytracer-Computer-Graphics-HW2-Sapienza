@@ -109,3 +109,19 @@ Per chi fa l'extra credit, includere anche `apps` e ulteriori immagini.
 Per chi crea nuovi modelli, includere anche le directory con i nuovo modelli creati.
 Il file va chiamato `<cognome>_<nome>_<numero_di_matricola>.zip` 
 e vanno escluse tutte le altre directory. Inviare il file su Google Classroom.
+
+## Risultati finali 
+Nella cartella `out` sono presenti alcuni render fatti con questo raytracer.
+Sia chiaro, il codice scritto da me è solo nelle funzioni:
+  * `trace_color()`
+  * `trace_normal()`
+  * `trace_texcoord()`
+  * `trace_eyelight()`
+  * `trace_raytrace()`
+
+Alcuni render presenti in `out`
+
+![cornelbox](https://github.com/edu-rinaldi/Raytracer-Computer-Graphics-HW2-Sapienza/blob/master/out/lowres/01_cornellbox_512_256.jpg)
+![texture](https://github.com/edu-rinaldi/Raytracer-Computer-Graphics-HW2-Sapienza/blob/master/out/lowres/03_texture_720_256.jpg)
+![hair](https://github.com/edu-rinaldi/Raytracer-Computer-Graphics-HW2-Sapienza/blob/master/out/lowres/10_hair_720_256.jpg)
+![bathroom](https://github.com/edu-rinaldi/Raytracer-Computer-Graphics-HW2-Sapienza/blob/master/out/lowres/11_bathroom1_720_256.jpg)
